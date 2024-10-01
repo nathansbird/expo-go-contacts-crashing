@@ -41,9 +41,9 @@ export default function ContactsScreen() {
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
+        <ThemedText type="subtitle">Step 2: Observe Crash</ThemedText>
         <ThemedText>
-          Tap the Explore tab to learn more about what's included in this starter app.
+          Expo Go dies on me every time. This has happened to me on a 17.4 simulator, and a physical iPhone 14 Pro running iOS 18.0
         </ThemedText>
       </ThemedView>
       <Button title='Trigger Contacts' onPress={() => triggerContactsFlow()}/>
