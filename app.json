@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "contacts-crashing",
-    "slug": "contacts-crashing",
+    "name": "expo-go-contacts-crashing",
+    "slug": "expo-go-contacts-crashing",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
